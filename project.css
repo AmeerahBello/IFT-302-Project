@@ -1,9 +1,5 @@
-body{
-  background-color: black;
-}
 h1{
   text-align: center;
-  color: white;
 }
 section{
   display: grid;
